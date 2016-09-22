@@ -1,0 +1,16 @@
+﻿div#titleBar
+{
+    background-color: #3B5998;
+    padding: 3px;
+}
+div#titleBar a
+{
+    font-family: Calibri;
+    font-size: 12px;
+    color: #FFFFFF;
+    padding: 5px;
+}
+div#titleBar a img
+{
+    background-color: #FFFFFF;
+}
